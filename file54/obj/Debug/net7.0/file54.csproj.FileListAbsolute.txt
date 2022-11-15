@@ -1,0 +1,15 @@
+/home/user/Документы/обучение/examples/dz8/file54/bin/Debug/net7.0/file54
+/home/user/Документы/обучение/examples/dz8/file54/bin/Debug/net7.0/file54.deps.json
+/home/user/Документы/обучение/examples/dz8/file54/bin/Debug/net7.0/file54.runtimeconfig.json
+/home/user/Документы/обучение/examples/dz8/file54/bin/Debug/net7.0/file54.dll
+/home/user/Документы/обучение/examples/dz8/file54/bin/Debug/net7.0/file54.pdb
+/home/user/Документы/обучение/examples/dz8/file54/obj/Debug/net7.0/file54.csproj.AssemblyReference.cache
+/home/user/Документы/обучение/examples/dz8/file54/obj/Debug/net7.0/file54.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Документы/обучение/examples/dz8/file54/obj/Debug/net7.0/file54.AssemblyInfoInputs.cache
+/home/user/Документы/обучение/examples/dz8/file54/obj/Debug/net7.0/file54.AssemblyInfo.cs
+/home/user/Документы/обучение/examples/dz8/file54/obj/Debug/net7.0/file54.csproj.CoreCompileInputs.cache
+/home/user/Документы/обучение/examples/dz8/file54/obj/Debug/net7.0/file54.dll
+/home/user/Документы/обучение/examples/dz8/file54/obj/Debug/net7.0/refint/file54.dll
+/home/user/Документы/обучение/examples/dz8/file54/obj/Debug/net7.0/file54.pdb
+/home/user/Документы/обучение/examples/dz8/file54/obj/Debug/net7.0/file54.genruntimeconfig.cache
+/home/user/Документы/обучение/examples/dz8/file54/obj/Debug/net7.0/ref/file54.dll
